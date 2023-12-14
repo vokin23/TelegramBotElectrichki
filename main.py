@@ -5,7 +5,7 @@ import time
 from datetime import datetime
 import Parsing
 
-TOKEN = "6504422834:AAELkmoqRG2PC_ZzOpPcovUWsTqyetBYbOs"
+TOKEN = "Token"
 
 bot = telebot.TeleBot(TOKEN)
 
